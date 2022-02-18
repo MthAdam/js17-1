@@ -35,3 +35,12 @@
      document.write(numb1%numb2+'<br>')
  }
  mod(14,6)
+
+
+
+
+
+var arr = ['Alexander','Henry','Lucas','Benjamin','James','William','Elijah']
+for (var i=1;i <=7;i++) {
+    document.write(arr).innerHTML = arr.toString();  
+}
